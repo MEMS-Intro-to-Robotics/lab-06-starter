@@ -1,1 +1,0 @@
-{"tests":[{"name":"Lab 6 Validation","setup":"pip install pytest","run":"pytest test_lab_6.py -v","input":"","output":"","comparison":"included","timeout":2,"points":0}]}
